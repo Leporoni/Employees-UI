@@ -1,4 +1,4 @@
-# EmployeesUi
+# EmployeesUi - Simple Crud example to manager employees list using Angular 7 app to call an exist Java/Spring API RESTful. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
